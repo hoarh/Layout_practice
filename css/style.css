@@ -46,13 +46,62 @@ Developer @GA in NYC
 /*******************************************/
 
 body {
-     color: #000;
      font-size: 12px;
      line-height: 1.4;
      font-family: Helvetica, Arial, sans-serif;
-     margin:0px;
+     margin:10%
 }
 
 /******************************************
 /* LAYOUT                   
 /*******************************************/
+
+h1 {
+     color: black;
+     text-align: left;
+     font-weight: 700;
+}
+
+main {
+     background-color: #A9A9A9;
+     border: 1px solid black;
+     width: 100%;
+     padding: 5%;
+}
+
+section {
+     background-color: #A9A9A9;
+     border: 1px solid black;
+     width: 65%;
+     padding: 10%;
+     margin-bottom: 5%;
+     margin-right: 5%;
+     margin-top: 5%;
+     float: left;
+}
+
+aside {
+     background-color: #A9A9A9;
+     border: 1px solid black;
+     width: 30%;
+     padding: 10%;
+     margin-bottom: 5%;
+     margin-top: 5%;
+     float: left;
+}
+
+footer {
+     background-color: #A9A9A9;
+     border: 1px solid black;
+     width: 100%;
+     padding: 5%;
+     clear: both;   
+}
+
+
+
+
+
+
+
+
