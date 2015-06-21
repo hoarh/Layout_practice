@@ -72,21 +72,19 @@ main {
 section {
      background-color: #A9A9A9;
      border: 1px solid black;
-     width: 65%;
-     padding: 10%;
-     margin-bottom: 5%;
-     margin-right: 5%;
-     margin-top: 5%;
+     width: 55%;
+     padding-top: 50%;
+     margin: 2.5%;
      float: left;
 }
 
 aside {
      background-color: #A9A9A9;
      border: 1px solid black;
-     width: 30%;
-     padding: 10%;
-     margin-bottom: 5%;
-     margin-top: 5%;
+     width: 20%;
+     padding-top: 50%;
+     margin-bottom: 2.5%;
+     margin-top: 2.5%;
      float: left;
 }
 
